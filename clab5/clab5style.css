@@ -1,0 +1,6 @@
+body{background-color: #a67828;margin: 0px}
+header{text-align: center; color: #ffffff; background-color: #264e8e}
+article{padding: 5px; border-radius:10px; border: solid #000000 1px}
+footer{text-align: center;color: #ffffff}
+a{display:block; position: relative; width: 200px; height: 40px; background-color: #9abaec; border-top-right-radius: 25px; border-bottom-right-radius: 25px; padding: 5px; text-decoration: none; text-align:center; color: #ffffff}
+a:hover{display:block; position: relative; width: 225px; background-color: #ffffcc; color: #000000}
